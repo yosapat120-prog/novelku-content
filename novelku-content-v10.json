@@ -39,11 +39,6 @@
         "number": 6,
         "title": "TES PUBLIKASI",
         "content": "Ini adalah tes publikasi dari Studio Penulis NovelKu V11."
-      },
-      {
-        "number": 7,
-        "title": "Bab Percobaan — Tes Publikasi",
-        "content": "Ini adalah bab percobaan untuk menguji sistem publikasi NovelKu.\n\nJika tulisan ini berhasil muncul di aplikasi setelah dipublikasikan, berarti fitur Studio Penulis sudah berhasil terhubung dengan penyimpanan konten online.\n\nBab ini hanya digunakan sebagai pengujian dan nantinya dapat diganti dengan bab novel yang sebenarnya.\n\n— Tes NovelKu V12 —"
       }
     ]
   },
