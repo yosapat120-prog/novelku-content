@@ -7,7 +7,7 @@
     "description": "Kisah cinta, perjuangan hidup, keluarga, dan pilihan yang mengubah masa depan.",
     "status": "Ongoing",
     "rating": 4.6,
-    "updatedLabel": "Online",
+    "updatedLabel": "Baru diperbarui",
     "coverUrl": "",
     "chapters": [
       {
@@ -34,6 +34,11 @@
         "number": 5,
         "title": "Bab 5 — Di Balik Perbedaan Kita",
         "content": "Di Balik Perbedaan Kita\n\nBab 5\n\nIni adalah isi contoh katalog online NovelKu V10. Naskah asli dapat menggantikan teks ini langsung di file JSON server tanpa membuat APK baru.\n\nSetelah file diperbarui, aplikasi NovelKu dapat menyinkronkan bab terbaru dari internet."
+      },
+      {
+        "number": 6,
+        "title": "TES PUBLIKASI",
+        "content": "Ini adalah tes publikasi dari Studio Penulis NovelKu V11."
       }
     ]
   },
@@ -45,7 +50,7 @@
     "description": "Perjalanan seorang pemuda yang tumbuh perlahan melalui sistem, bisnis, dan kultivasi.",
     "status": "Ongoing",
     "rating": 4.7,
-    "updatedLabel": "Online",
+    "updatedLabel": "Baru diperbarui",
     "coverUrl": "",
     "chapters": [
       {
@@ -83,7 +88,7 @@
     "description": "Perjalanan dari kehidupan sederhana menuju masa depan yang dibangun dengan kerja keras dan keberanian.",
     "status": "Ongoing",
     "rating": 4.8,
-    "updatedLabel": "Online",
+    "updatedLabel": "Baru diperbarui",
     "coverUrl": "",
     "chapters": [
       {
@@ -121,7 +126,7 @@
     "description": "Pertemuan lama kembali membuka luka, harapan, dan pilihan tentang keluarga.",
     "status": "Ongoing",
     "rating": 4.9,
-    "updatedLabel": "Online",
+    "updatedLabel": "Baru diperbarui",
     "coverUrl": "",
     "chapters": [
       {
@@ -159,7 +164,7 @@
     "description": "Sebuah warisan lama menyeret pemuda biasa ke konflik yang semakin besar.",
     "status": "Ongoing",
     "rating": 4.5,
-    "updatedLabel": "Online",
+    "updatedLabel": "Baru diperbarui",
     "coverUrl": "",
     "chapters": [
       {
@@ -197,7 +202,7 @@
     "description": "Perjuangan membangun usaha dari nol sambil menghadapi cinta, keluarga, dan persaingan.",
     "status": "Ongoing",
     "rating": 4.6,
-    "updatedLabel": "Online",
+    "updatedLabel": "Baru diperbarui",
     "coverUrl": "",
     "chapters": [
       {
