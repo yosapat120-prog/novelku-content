@@ -236,5 +236,33 @@
         "content": "CEO dari Kota Kecil\n\nBab 5\n\nIni adalah isi contoh katalog online NovelKu V10. Naskah asli dapat menggantikan teks ini langsung di file JSON server tanpa membuat APK baru.\n\nSetelah file diperbarui, aplikasi NovelKu dapat menyinkronkan bab terbaru dari internet."
       }
     ]
+  },
+  {
+    "id": 7,
+    "title": "bahshsh",
+    "author": "skskkskska",
+    "genre": "hshsh",
+    "description": "siiis isisis hshshsh",
+    "status": "Ongoing",
+    "rating": 4.8,
+    "updatedLabel": "Baru diperbarui",
+    "coverUrl": "https:\/\/raw.githubusercontent.com\/yosapat120-prog\/novelku-content\/main\/covers\/cover_7_1788537602516.jpg",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "zizizizi",
+        "content": "hzhzhzhhz shzhzhz zhhzhz harus hshshs jsjsjsj"
+      },
+      {
+        "number": 2,
+        "title": "sjsjjs",
+        "content": "njsjsjsjsj jsjsjsj zizizizi sjsjjsj"
+      },
+      {
+        "number": 3,
+        "title": "bshsbsh shsjjsjs susjjs",
+        "content": "usuussu sjsjjsj hsushs hshshs"
+      }
+    ]
   }
 ]
